@@ -1,6 +1,6 @@
 ## Interface: 90100
 ## Title: AdiBags - Shadowlands Crafting-Herbs
-## Version: 1.2
+## Version: 1.3
 ## Author: Bearesquishy
 ## DefaultState: enabled
 ## Dependancies: AdiBags
