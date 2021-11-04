@@ -1,5 +1,10 @@
-# Adibags Shadowlands Herbs
-Adds category for herbs to adibags
+# AdiBags Shadowlands Herbs
+Adds category for Shadowlands herbs to AdiBags
 
-![settings](https://user-images.githubusercontent.com/1850089/126242521-966216eb-c7ac-42cd-8750-23a03476e3e2.png)
-![enchanting-bag](https://user-images.githubusercontent.com/1850089/126242522-a861a6f1-2c07-4908-a3e5-e22d1c2d0c7c.png)
+![settings](https://user-images.githubusercontent.com/1850089/140332494-4c9c0c49-96ee-4f35-a3cc-b90831e9332c.png)
+
+![herbs](https://user-images.githubusercontent.com/1850089/140332647-23929ea2-f0e1-43f9-98f2-1e94253af113.png)
+
+![bank-herbs](https://user-images.githubusercontent.com/1850089/140332649-6abc3fef-0a54-4619-84f5-ad6fdee5ddee.png)
+
+### REQUIRES: [AdiBags](https://www.curseforge.com/wow/addons/adibags)
