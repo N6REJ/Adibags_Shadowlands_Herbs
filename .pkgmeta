@@ -7,6 +7,6 @@ ignore:
     - .release
 
 required-dependencies:
-    adibags
+    AdiBags
 
 license-output: LICENSE
