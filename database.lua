@@ -1,5 +1,5 @@
 -- AdiBags_Shadowlands Herbs - Database
--- Created by N6REJ character is Bearesquishy - dalaran please credit whenever.
+-- Created by @project-author@character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
 local addonName, addonTable, addon = ...
@@ -7,14 +7,14 @@ local addonName, addonTable, addon = ...
 -- Create addon table
 local db = { }
 
-db.name = "Shadowlands Fishing"
-db.desc = "Fish and Bait found while fishing in shadowlands"
+db.name = "Shadowlands Herbs"
+db.desc = "Herbs found while gathering in shadowlands"
 
 -- Filter info
 db.Filters = {
 	["Herbs"] = {
 		uiName = "Shadowlands Herbs",
-		uiDesc = "Herbs found while gathering in Shadowlands",
+		uiDesc = "Herbs found in Shadowlands",
 		title = "Herbs",
 		items = {
 			-- ID,	--Item name

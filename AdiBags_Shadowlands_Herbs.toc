@@ -5,7 +5,7 @@
 ## X-License: MIT
 ## X-Curse-Project-ID: 446519
 ## DefaultState: enabled
-## Dependancies: AdiBags
+## Dependencies: AdiBags
 
 database.lua
 core.lua
