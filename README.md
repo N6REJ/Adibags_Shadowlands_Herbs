@@ -1,4 +1,4 @@
-# AdiBags Shadowlands Herbs
+# AdiBags Shadowlands Herbs ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
 Adds category for Shadowlands herbs to AdiBags
 
 ![settings](https://user-images.githubusercontent.com/1850089/140332494-4c9c0c49-96ee-4f35-a3cc-b90831e9332c.png)
