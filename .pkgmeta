@@ -1,9 +1,12 @@
 package-as: Adibags_Shadowlands_Herbs
 
 ignore:
-	- README.md
+    - README.md
+    - .github
+    - .packager
+    - .release
 
 required-dependencies:
-    - 23350-adibags
+    adibags
 
 license-output: LICENSE
