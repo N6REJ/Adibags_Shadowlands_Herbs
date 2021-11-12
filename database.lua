@@ -12,20 +12,20 @@ db.desc = "Herbs found while gathering in shadowlands"
 
 -- Filter info
 db.Filters = {
-	["Herbs"] = {
-		uiName = "Shadowlands Herbs",
-		uiDesc = "Herbs found in Shadowlands",
-		title = "Herbs",
-		items = {
-			-- ID,	--Item name
-			[168583] = true, 		-- Widowbloom
-			[168586] = true, 		-- Rising Glory
-			[168589] = true, 		-- Marrow Root
-			[169701] = true, 		-- Death Blossom
-			[170554] = true, 		-- Vigils Torch
-			[171315] = true, 		-- Nightshade
-		},
-	},
+    ["Herbs"] = {
+        uiName = "Shadowlands Herbs",
+        uiDesc = "Herbs found in Shadowlands",
+        title = "Herbs",
+        items = {
+            -- ID,	--Item name
+            [168583] = true, -- Widowbloom
+            [168586] = true, -- Rising Glory
+            [168589] = true, -- Marrow Root
+            [169701] = true, -- Death Blossom
+            [170554] = true, -- Vigils Torch
+            [171315] = true, -- Nightshade
+        },
+    },
 }
 
 -- now that db is populated lets pass it on.
