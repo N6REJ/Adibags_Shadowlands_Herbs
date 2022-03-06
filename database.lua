@@ -24,6 +24,7 @@ db.Filters = {
             [169701] = true, -- Death Blossom
             [170554] = true, -- Vigils Torch
             [171315] = true, -- Nightshade
+            [187699] = true -- First Flower
         },
     },
 }
