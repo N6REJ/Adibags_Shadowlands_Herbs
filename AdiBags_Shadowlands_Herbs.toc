@@ -1,9 +1,10 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: AdiBags Shadowlands Herbs
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
 ## X-Curse-Project-ID: 446519
+## X-Wago-ID: qv63lDKb
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
