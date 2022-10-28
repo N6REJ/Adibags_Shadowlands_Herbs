@@ -1,5 +1,5 @@
 ## Interface: 90205
-## Title: AdiBags Shadowlands Herbs
+## Title: AdiBags Bears Herbs
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
