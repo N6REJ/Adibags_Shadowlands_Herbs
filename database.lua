@@ -1,20 +1,24 @@
--- AdiBags_Bears Herbs - Database
--- Created by @project-author@character is Bearesquishy - dalaran please credit whenever.
+-- AdiBags Bears Herbs - Database
+-- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 --
-local addonName, addonTable, addon = ...
+local addonName, addonTable = ...;
+
+-- Get locals namse
+local L = addonTable.locales;
+local Expansion = L["SHADOWLANDS"]
 
 -- Create addon table
 local db = { }
 
 db.name = "Bears Herbs"
-db.desc = "Herbs found while gathering in shadowlands"
+db.desc = "Herbs found while gathering in " .. Expansion
 
 -- Filter info
 db.Filters = {
     ["Herbs"] = {
-        uiName = "Bears Herbs",
-        uiDesc = "Herbs found in Bears",
+        uiName = Expansion .. " Herbs",
+        uiDesc = "Herbs found in " .. Expansion,
         title = "Herbs",
         items = {
             -- ID,	--Item name
