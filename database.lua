@@ -1,12 +1,13 @@
 -- AdiBags Bears Herbs - Database
 -- Created by @project-author@ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
-
+---@type
+---
 local addonName, addonTable = ...;
 
 -- Get locals namse
 local L = addonTable.locales;
-local Expansion = L["SHADOWLANDS"]
+local Expansion = L["Shadowlands"]
 
 -- Create addon table
 local db = { }
