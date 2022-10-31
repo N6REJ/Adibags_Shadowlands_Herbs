@@ -12,7 +12,7 @@ local Expansion = L["Shadowlands"]
 -- Create addon table
 local db = { }
 
-db.name = "Bears Herbs"
+db.name = Expansion .. "  Herbs"
 db.desc = "Herbs found while gathering in " .. Expansion
 
 -- Filter info
