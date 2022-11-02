@@ -5,9 +5,9 @@
 ---
 local addonName, addonTable = ...;
 
--- Get locals namse
-local L = addonTable.locales;
-local Expansion = L["Shadowlands"]
+-- Get the common expansion names from expansion.lua
+local E = addonTable.expansion
+local Expansion = E["Shadowlands"]
 
 -- Create addon table
 local db = { }
