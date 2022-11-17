@@ -1,4 +1,6 @@
-## Interface: 100000
+## Title: Bears Herbs
+## Interface: 100002
+## X-Interface: 100002
 ## Title: AdiBags Bears Herbs
 ## Version: @project-version@
 ## Author: Bearesquishy
