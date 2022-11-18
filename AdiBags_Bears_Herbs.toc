@@ -1,4 +1,4 @@
-## Title: Bears Herbs
+## Title: AdiBags - Bears Herbs
 ## Interface: 100002
 ## X-Interface: 100002
 ## Title: AdiBags Bears Herbs
