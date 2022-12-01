@@ -6,8 +6,8 @@ Adds category for Bears herbs to AdiBags
 [![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Herbs/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Herbs/actions/workflows/release.yml)
 [![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Herbs.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Herbs/releases/)
 
-![Bears](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-![10.0.0](https://img.shields.io/badge/Ready_for-10.0.0-darkgreen)
+![Bears](https://img.shields.io/badge/Supports-Dragonflight-0B68D7)
+![10.0.2](https://img.shields.io/badge/Ready_for-10.0.2-darkgreen)
 [![curse](https://img.shields.io/badge/Curseforge_Project_ID:-545326-purple)](https://www.curseforge.com/wow/addons/adibags_shadowlands_Herbs)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
