@@ -35,7 +35,16 @@ db.Filters = {
 			[191468] = true, -- Bubble poppy 2
 			[191467] = true, -- Bubble poppy 1
 		}
-	}
+	},
+	["Meat"] = {
+		uiName = Expansion .. " Meat",
+		uiDesc = "Meat found in " .. Expansion,
+		title = "Meat",
+		items = {
+			-- ID  = true,		--Item name
+			[197755] = true, -- Lava beetle
+		}
+	},
 }
 
 -- now that db is populated lets pass it on.
