@@ -12,7 +12,7 @@ local Expansion = L["Dragonflight"]
 -- Create addon table
 local db = {}
 
-db.name = Expansion .. " Cooking"
+db.name = "Bears " .. Expansion .. " Cooking"
 db.desc = "Herbs found in " .. Expansion
 
 -- Filter info
