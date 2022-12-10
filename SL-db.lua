@@ -18,7 +18,7 @@ db.desc = "Herbs found while gathering in " .. Expansion
 -- Filter info
 db.Filters = {
     ["Herbs"] = {
-        uiName = Expansion .. " Herbs",
+        uiName = "Bears " .. Expansion .. " Herbs",
         uiDesc = "Herbs found in " .. Expansion,
         title = "Herbs",
         items = {
