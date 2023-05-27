@@ -35,6 +35,7 @@ db.Filters = {
 			[191468] = true, -- Bubble poppy 2
 			[191467] = true, -- Bubble poppy 1
 			[204911] = true, -- Propagated Spore
+			[204460] = true, -- Zaralek Glowspores
 		}
 	},
 	["Seed"] = {
