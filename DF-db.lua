@@ -48,6 +48,9 @@ db.Filters = {
 			[200507] = true, -- Decayed Roused Seedling
 			[200509] = true, -- Agitated Roused Seedling
 			[23788] = true, -- Tree Seedling
+			[208067] = true, -- Plump Dreamseed
+			[208066] = true, -- Small Dreamseed
+			[208047] = true, -- Gigantic Dreamseed
 		}
 	},
 	["Meat"] = {
